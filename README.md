@@ -1,9 +1,9 @@
-# TamaLIB - A hardware agnostic Tamagotchi P1 emulation library
+# WIP: DigiLIB - A hardware agnostic -Tamagotchi P1- Digimon V1 emulation library
 
 
 ## Synopsis
 
-TamaLib is a hardware agnostic Tamagotchi P1 emulation library built from scratch. It is self-contained and aims at running on any platform powerful enough, from microcontrollers (MCUs) to desktop computers, thus spreading virtual life across the digital world.
+TamaLib is a hardware agnostic Digimon V1 emulation library, using a good chunk of code from TamaLIB, a Tamagotchi P1 emulation library. It is self-contained and aims at running on any platform powerful enough, from microcontrollers (MCUs) to desktop computers, thus spreading virtual life across the digital world.
 
 So far, it has been successfully implemented on different platforms:
 - Desktop computers (check out [TamaTool](https://github.com/jcrona/tamatool/) for more information) 
