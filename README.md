@@ -1,4 +1,4 @@
-# WIP: DigiLIB - A hardware agnostic -Tamagotchi P1- Digimon V1 emulation library
+# WIP: DigiLIB - A hardware agnostic ~Tamagotchi P1~ Digimon V1 emulation library
 
 
 ## Synopsis
